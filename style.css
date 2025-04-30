@@ -1,5 +1,4 @@
-.bg{
-    /* background-image: url(./images/images.jpeg); */
-    background-size: cover !important;
-    background-repeat: no-repeat !important;
+.box{
+    box-sizing: border-box !important;
+    /* background-color: #85BDBF !important; */
 }
